@@ -1,3 +1,5 @@
+#Anna Ware, MS Data Science Student
+
 deneemonty@DESKTOP-DKPU8JB:/mnt/c/Users/denee/Downloads$ cd /mnt/c/Users/denee/Downloads
 deneemonty@DESKTOP-DKPU8JB:/mnt/c/Users/denee/Downloads$ tar -xzvf log.tar.gz
 log.csv
