@@ -1,4 +1,4 @@
-# stc510
+# Python Data Wrangling
 
 A space for data wrangling course
 
